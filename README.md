@@ -1,5 +1,7 @@
 - Hi, I’m @dan-greiner
-- I'm a PhD candidate in the [Roh-Johnson lab](https://medicine.utah.edu/biochemistry/labs/roh-johnson-lab/) at the University of Utah.
+- I'm a PhD candidate in the @Roh-[Roh-Johnson lab](https://medicine.utah.edu/biochemistry/labs/roh-johnson-lab/) at the University of Utah.
+
+- Broadly, I'm interested in studying how the tumor microenvironment affects the progression of cancer. My current research focuses more specifically on the role that macrophages play in affecting breast cancer iron homeostasis.
 
 
 
